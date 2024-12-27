@@ -1,7 +1,4 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
-
-
-
 ## License
 
 The MIT License
